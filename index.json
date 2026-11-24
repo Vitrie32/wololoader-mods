@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "updated": "2026-11-24",
+  "mods": [
+    {
+      "id": "Monklanians",
+      "name": "Monklanians",
+      "version": "0.2",
+      "author": "ali",
+      "description": "Adds the Monklanians, a Briton-based civilization of tough, fast-walking monks with longer conversion range. The example civ mod of Wololoader.",
+      "tags": [
+        "civilization",
+        "example"
+      ],
+      "icon": "https://raw.githubusercontent.com/Vitrie32/wololoader-mods/main/mods/Monklanians/icon.png",
+      "download": "https://raw.githubusercontent.com/Vitrie32/wololoader-mods/main/mods/Monklanians/Monklanians-0.2.zip",
+      "sha256": "bdb68dc38c74461af3c02fe5dd12e652118951818ee56c4c842844fe2f1b4b00",
+      "size": 125211,
+      "requires_wololoader": "0.4.1",
+      "depends": [],
+      "updated": "2026-11-24"
+    },
+    {
+      "id": "Woodlanders",
+      "name": "Woodlanders",
+      "version": "0.1",
+      "author": "ali",
+      "description": "Adds the Woodlanders, a Frankish forest people of fast lumberjacks and heavy axe riders. Second example civ of Wololoader (unique unit cloned from the Knight).",
+      "tags": [
+        "civilization",
+        "example",
+        "custom units"
+      ],
+      "icon": "https://raw.githubusercontent.com/Vitrie32/wololoader-mods/main/mods/Woodlanders/icon.png",
+      "download": "https://raw.githubusercontent.com/Vitrie32/wololoader-mods/main/mods/Woodlanders/Woodlanders-0.1.zip",
+      "sha256": "d6f5e068f61cc02fc731edfc7dd6809b82cbcd8279587baf90ea58e1b0b914b5",
+      "size": 12330,
+      "requires_wololoader": "0.4.1",
+      "depends": [],
+      "updated": "2026-11-24"
+    }
+  ]
+}
