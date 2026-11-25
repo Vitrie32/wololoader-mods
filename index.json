@@ -25,7 +25,7 @@
     {
       "id": "Monklanians",
       "name": "Monklanians",
-      "version": "0.2",
+      "version": "0.3",
       "author": "ali",
       "description": "Adds the Monklanians, a Briton-based civilization of tough, fast-walking monks with longer conversion range. The example civ mod of Wololoader.",
       "tags": [
@@ -33,12 +33,13 @@
         "example"
       ],
       "icon": "https://raw.githubusercontent.com/Vitrie32/wololoader-mods/main/mods/Monklanians/icon.png",
-      "download": "https://raw.githubusercontent.com/Vitrie32/wololoader-mods/main/mods/Monklanians/Monklanians-0.2.zip",
-      "sha256": "bdb68dc38c74461af3c02fe5dd12e652118951818ee56c4c842844fe2f1b4b00",
-      "size": 125211,
+      "download": "https://raw.githubusercontent.com/Vitrie32/wololoader-mods/main/mods/Monklanians/Monklanians-0.3.zip",
+      "sha256": "579375bf826dbe0a1245da8be947b2f5dd49b3ac34569a0afd6459d773e87b44",
+      "size": 124902,
       "requires_wololoader": "0.4.1",
       "depends": [],
-      "updated": "2026-11-24"
+      "updated": "2026-11-25",
+      "uploader": "Wololoader"
     },
     {
       "id": "Woodlanders",
