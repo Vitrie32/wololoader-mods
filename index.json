@@ -59,6 +59,24 @@
       "uploader": "Wololoader"
     },
     {
+      "id": "LastTownStanding",
+      "name": "Last Town Standing",
+      "version": "1.0",
+      "author": "Wololoader",
+      "description": "Adds the Last Town Standing lobby game mode: lose all of your Town Centers and you are defeated at once; the last player with a Town Center wins.",
+      "tags": [
+        "game mode",
+        "scripts"
+      ],
+      "download": "https://raw.githubusercontent.com/Vitrie32/wololoader-mods/main/mods/LastTownStanding/LastTownStanding-1.0.zip",
+      "sha256": "e4914a358e3284de606c87e48d07431c96d6ac860fd35a984edffc85b5637a72",
+      "size": 1148,
+      "requires_wololoader": "0.6.0",
+      "depends": [],
+      "updated": "2026-11-25",
+      "uploader": "Wololoader"
+    },
+    {
       "id": "MerchantCaravans",
       "name": "Merchant Caravans",
       "version": "1.0",
