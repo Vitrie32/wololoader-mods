@@ -79,19 +79,19 @@
     {
       "id": "MerchantCaravans",
       "name": "Merchant Caravans",
-      "version": "1.0",
+      "version": "2.0",
       "author": "Wololoader",
-      "description": "Trade caravans visit your town every few minutes and bring resources. Example of mod settings: pick how often they come, how much they bring and what, on the Mods screen (Settings).",
+      "description": "A merchant's trade cart travels from town to town every few minutes. Select it while one of your units is near and press Trade to get resources. Example of mod settings and Lua: how often merchants come, what they bring and how much, on the Mods screen (Settings).",
       "tags": [
         "gameplay",
         "scripts",
         "example"
       ],
       "icon": "https://raw.githubusercontent.com/Vitrie32/wololoader-mods/main/mods/MerchantCaravans/icon.png",
-      "download": "https://raw.githubusercontent.com/Vitrie32/wololoader-mods/main/mods/MerchantCaravans/MerchantCaravans-1.0.zip",
-      "sha256": "7b1f724eea3c3c1ca495805a8bf683341e1568291aa8dc951c46d1076a71bb10",
-      "size": 25969,
-      "requires_wololoader": "0.5.0",
+      "download": "https://raw.githubusercontent.com/Vitrie32/wololoader-mods/main/mods/MerchantCaravans/MerchantCaravans-2.0.zip",
+      "sha256": "e97bccb725b5e191ee69cca01d07fb6f1cdfd53728de565dea2cf94f91918918",
+      "size": 34757,
+      "requires_wololoader": "0.6.0",
       "depends": [],
       "updated": "2026-11-25",
       "uploader": "Wololoader"
