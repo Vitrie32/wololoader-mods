@@ -3,6 +3,25 @@
   "updated": "2026-11-25",
   "mods": [
     {
+      "id": "AgeOfMiracles",
+      "name": "Age of Miracles",
+      "version": "1.0",
+      "author": "Wololoader",
+      "description": "Adds the Age of Miracles lobby game mode. Monks generate Faith every 10 seconds, spent at the Monastery on Miracles (Bountiful Harvest, Holy Warriors, Plague, Divine Favour). First player to reach the Faith target wins!",
+      "tags": [
+        "game mode",
+        "resources",
+        "scripts"
+      ],
+      "download": "https://raw.githubusercontent.com/Vitrie32/wololoader-mods/main/mods/AgeOfMiracles/AgeOfMiracles-1.0.zip",
+      "sha256": "bcf71e57ac1ebd24d5253f2cd6f03aba406412a55d01ec1723f4d2741c40f69c",
+      "size": 14832,
+      "requires_wololoader": "0.6.0",
+      "depends": [],
+      "updated": "2026-11-25",
+      "uploader": "Wololoader"
+    },
+    {
       "id": "MerchantCaravans",
       "name": "Merchant Caravans",
       "version": "1.0",
