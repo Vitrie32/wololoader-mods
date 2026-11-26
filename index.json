@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-25",
+  "updated": "2026-11-26",
   "mods": [
     {
       "id": "AgeOfMiracles",
@@ -42,7 +42,7 @@
     {
       "id": "LastStand",
       "name": "Last Stand",
-      "version": "2.0",
+      "version": "2.1",
       "author": "Wololoader",
       "description": "Co-op zombies-style survival mode. Every player, computer players included, defends one shared Castle against the Horde: endless rounds of Gaia raiders that spawn all around your bases and march on your buildings. Earn Points from kills and survived rounds, then spend them at the Castle on Mystery Boxes, perks (Juggernaut, Speed Cola, Pack-a-Punch), mercenaries, towers and supplies.",
       "tags": [
@@ -50,12 +50,13 @@
         "co-op",
         "scripts"
       ],
-      "download": "https://raw.githubusercontent.com/Vitrie32/wololoader-mods/main/mods/LastStand/LastStand-2.0.zip",
-      "sha256": "1b46879918af8eaedd0ec9abe805ff562a54524cd920c5807011d3de7b823668",
-      "size": 39383,
+      "icon": "https://raw.githubusercontent.com/Vitrie32/wololoader-mods/main/mods/LastStand/icon.png",
+      "download": "https://raw.githubusercontent.com/Vitrie32/wololoader-mods/main/mods/LastStand/LastStand-2.1.zip",
+      "sha256": "8a53359abe55ef8d72f8e27c78cc978665bcc1526d0096de8bc7c7e1438cb642",
+      "size": 65405,
       "requires_wololoader": "0.6.0",
       "depends": [],
-      "updated": "2026-11-25",
+      "updated": "2026-11-26",
       "uploader": "Wololoader"
     },
     {
